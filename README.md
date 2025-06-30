@@ -44,25 +44,25 @@ CrowdFundBD is a community-driven platform that empowers Bangladeshi innovators 
     - Define funding amount, deadline, rewards
       - Accept secure payments via SSLCommerz, bKash, Nagad, Visa
 
-      ### 🏷️ Optional Add-Ons (Future)
-      - Blockchain token system
-      - Regional badges for startups (e.g. Sylhet Startup)
-      - Academic section for university incubators
+### 🏷️ Optional Add-Ons (Future)
+- Blockchain token system
+- Regional badges for startups (e.g. Sylhet Startup)
+- Academic section for university incubators
 
-      ---
+---
 
-      ## 🛠️ Built With
+## 🛠️ Built With
 
-      - **Frontend**: React + Tailwind CSS  
-      - **Backend**: Django + Django REST Framework  
-      - **Database**: PostgreSQL (via Railway/Render)  
-      - **Auth**: Django Rest Auth // Firebase (TBD)  
-      - **Deployment**: Railway + Netlify/Vercel (client)  
-      - **Media Storage**: Cloudinary (image upload support)
+- **Frontend**: React + Tailwind CSS  
+- **Backend**: Django + Django REST Framework  
+- **Database**: PostgreSQL (via Railway/Render)  
+- **Auth**: Django Rest Auth // Firebase (TBD)  
+- **Deployment**: Railway + Netlify/Vercel (client)  
+- **Media Storage**: Cloudinary (image upload support)
 
-      ---
+---
 
-      ## 🤝 Contributing
+## 🤝 Contributing
 
-      1. Fork the repo
-      2. Livelinks 
+1. Fork the repo
+2. Livelinks 
