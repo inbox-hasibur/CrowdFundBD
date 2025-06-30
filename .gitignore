@@ -1,0 +1,26 @@
+# Node modules
+client/node_modules/
+
+# Python venv
+server/venv/
+
+# Pycache
+server/**/__pycache__/
+server/**/*.py[cod]
+
+# Django migrations (optional, if you want to ignore them initially)
+server/**/migrations/
+
+# Environment files
+client/.env
+server/.env
+
+# JetBrains IDE
+.idea/
+
+# VS Code settings
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
