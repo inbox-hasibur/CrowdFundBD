@@ -41,8 +41,8 @@ CrowdFundBD is a community-driven platform that empowers Bangladeshi innovators 
 ### 💰 Crowdfunding Launch
 - After reaching validation threshold, users can:
   - Enable crowdfunding toggle
-    - Define funding amount, deadline, rewards
-      - Accept secure payments via SSLCommerz, bKash, Nagad, Visa
+  - Define funding amount, deadline, rewards
+  - Accept secure payments via SSLCommerz, bKash, Nagad, Visa
 
 ### 🏷️ Optional Add-Ons (Future)
 - Blockchain token system
