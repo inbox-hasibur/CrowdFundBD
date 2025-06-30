@@ -1,10 +1,9 @@
-# CrowdFundBD
-
-# 🧠 CrowdFundBD — Empowering Bangladeshi Startup Innovation
+# 🧠 CrowdFundBD
+# Empowering Bangladeshi Startup Innovation
 
 CrowdFundBD is a community-driven platform that empowers Bangladeshi innovators to showcase startup ideas, receive community feedback, and unlock real crowdfunding opportunities. Whether you're a student, aspiring founder, or experienced entrepreneur, this is the launchpad to turn ideas into action.
 
----
+
 
 ## 🚀 Project Summary
 
