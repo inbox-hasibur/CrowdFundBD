@@ -5,7 +5,7 @@ CrowdFundBD is a community-driven platform that empowers Bangladeshi innovators 
 
 
 
-## 🚀 Project Summary
+## ► Project Summary
 
 **CrowdFundBD** enables users to:
 
@@ -17,11 +17,11 @@ CrowdFundBD is a community-driven platform that empowers Bangladeshi innovators 
 
 ---
 
-## 🧩 Key Features
+## ► Key Features
 
 ### 🧠 Idea Submission
 - Rich form with pitch title, category, roadmap, budget, and visuals
-- Upload media files or YouTube pitch videos
+- Post and Upload media files // or YouTube pitch videos
 - Tag technologies, sectors, or regional focus
 
 ### 🔺 Voting & Visibility
@@ -30,11 +30,11 @@ CrowdFundBD is a community-driven platform that empowers Bangladeshi innovators 
 - Automated tier system based on upvotes
 
 ### 💬 Comments & Suggestions
-- Nested comment system with sorting
+- Nested comment system // with sorting
 - Idea creators can respond or implement suggestions
 
 ### 👔 Verified Business Panel
-- Entrepreneurs can sign up with NID + LinkedIn
+- Entrepreneurs can sign up with NID/Passport + LinkedIn
 - Provide endorsements with weighted influence
 - Option to offer mentorship (public or private)
 
@@ -56,8 +56,8 @@ CrowdFundBD is a community-driven platform that empowers Bangladeshi innovators 
       - **Frontend**: React + Tailwind CSS  
       - **Backend**: Django + Django REST Framework  
       - **Database**: PostgreSQL (via Railway/Render)  
-      - **Auth**: Django Rest Auth / Firebase (TBD)  
-      - **Deployment**: GitHub + Railway (API) + Netlify/Vercel (client)  
+      - **Auth**: Django Rest Auth // Firebase (TBD)  
+      - **Deployment**: Railway + Netlify/Vercel (client)  
       - **Media Storage**: Cloudinary (image upload support)
 
       ---
@@ -65,4 +65,4 @@ CrowdFundBD is a community-driven platform that empowers Bangladeshi innovators 
       ## 🤝 Contributing
 
       1. Fork the repo
-      2. Open it in [GitHub Codespaces](https://github.com/features/codespaces)
+      2. Livelinks 
