@@ -1,7 +1,7 @@
 ## 📝 **Product Backlog**
 
 ### **🔹 Module 1 – User System & Authentication**
-* Task 1.1: Set up Django REST Auth/Firebase auth integration
+* Task 1.1: Set up Django REST Auth//Firebase auth integration
 * Task 1.2: Create user models (normal user, entrepreneur, admin)
 * Task 1.3: Implement registration & login APIs
 * Task 1.4: Integrate frontend auth flows with React context
