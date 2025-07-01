@@ -65,5 +65,5 @@ A Community-Driven Crowdfunding Platform for Bangladeshi Startups. CrowdFundBD i
 
 ## 🤝 Contributing
 
-1. Developed by Team InnovatorsBD
+1. Developed by Hasibur Rahman
 2. Livelinks 
